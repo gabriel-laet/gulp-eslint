@@ -43,7 +43,7 @@
   "author": "Adametry",
   "license": "MIT",
   "dependencies": {
-    "eslint": "^0.11.0-alpha.0",
+    "eslint": "git://github.com/gabriel-laet/eslint#es6jsx",
     "gulp-util": "^3.0.1",
     "map-stream": "^0.1.0",
     "through": "^2.3.4"
